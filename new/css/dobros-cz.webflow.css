@@ -262,7 +262,7 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .logos-row a {
@@ -298,10 +298,6 @@
 
     .logos-row a.hidden {
         display: none;
-    }
-
-    .logos-row a.show {
-        display: block;
     }
 }
 
