@@ -59,7 +59,7 @@
 .paragraph {
   display: block;
   width: auto;
-  margin: 32px 0px 0px;
+  margin: 32px 0;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
