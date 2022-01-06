@@ -132,6 +132,21 @@
     font-weight: 400;
 }
 
+.link-footer {
+    color: #ccc;
+    margin: 0 8px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.link-footer:hover {
+    text-decoration: underline;
+}
+
+.footer span {
+    margin-right: 8px;
+}
+
 .link:hover {
     color: #f0a372;
     font-weight: 400;
