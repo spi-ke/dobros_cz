@@ -23,6 +23,7 @@
     color: #fff;
 }
 
+
 .section {
     display: -webkit-box;
     display: -webkit-flex;
@@ -474,5 +475,62 @@
         letter-spacing: 0.5px;
         text-decoration: none;
     }
+}
+
+
+ol {
+    list-style-position: outside;
+    counter-reset: item;
+
+    margin: 10px 0;
+    margin-left: 30px;
+
+    padding-left: 30px;
+    text-indent: -60px;
+}
+ol ol {
+    text-indent: -55px;
+}
+
+ol ol ol {
+    text-indent: -75px;
+    padding-left: 45px;
+}
+
+li {
+    display: block;
+    padding-bottom: 10px;
+}
+
+li:before {
+    font-weight: bold;
+    content: counters(item, ".") ". ";
+    counter-increment: item;
+}
+
+p {
+    padding: 10px 0;
+}
+
+table {
+    font-size: 16px;
+    margin-left: -10px;
+}
+
+tbody td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+thead td {
+    padding: 10px;
+}
+
+tfoot td {
+    padding: 10px 0;
+}
+
+tfoot {
+    font-size: 14px;
 }
 
