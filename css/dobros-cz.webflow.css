@@ -358,7 +358,7 @@
     }
 
     .paragraph {
-        display: none;
+        /*display: none;*/
         margin-top: 32px;
     }
 
