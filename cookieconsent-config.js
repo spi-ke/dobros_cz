@@ -47,23 +47,23 @@ CookieConsent.run({
               description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
             },
             {
-              title: "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
-              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              title: "Striktně nezbytné cookies <span class=\"pm__badge\">Vždy povolené</span>",
+              description: "Tyto cookies jsou nezbytné pro správné fungování naší webové stránky a nelze je vypnout. Obvykle jsou nastaveny pouze v reakci na vaše akce, které se rovnají žádosti o služby, jako je nastavení preferencí pro ochranu soukromí, přihlašování nebo vyplňování formulářů.",
               linkedCategory: "necessary"
             },
             {
-              title: "Analytics Cookies",
-              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              title: "Analytické cookies",
+              description: "Tyto cookies nám umožňují sledovat návštěvnost a zdroje provozu, abychom mohli měřit a zlepšovat výkon naší stránky. Pomáhají nám porozumět tomu, jaké stránky jsou nejvíce a nejméně populární a vidět, jak se návštěvníci pohybují na našich stránkách.",
               linkedCategory: "analytics"
             },
             {
-              title: "Advertisement Cookies",
-              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              title: "Reklamní cookies",
+              description: "Tyto cookies mohou být nastaveny našimi reklamními partnery prostřednictvím našich stránek. Mohou být použity těmito společnostmi k vytvoření profilu vašich zájmů a zobrazování relevantních reklam na jiných webových stránkách.",
               linkedCategory: "marketing"
             },
             {
               title: "More information",
-              description: "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"#yourdomain.com\">contact me</a>."
+              description: "Pro jakékoli dotazy ohledně mé politiky týkající se cookies a vašich možností mě prosím  <a class=\"cc__link\" href=\"https://dobros.cz\">kontaktujte</a>."
             }
           ]
         }
