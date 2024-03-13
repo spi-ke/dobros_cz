@@ -43,27 +43,29 @@ CookieConsent.run({
           serviceCounterLabel: "Service|Services",
           sections: [
             {
-              title: "Použití cookies",
-              description: "Jsme povinni vás informovat, že naše webové stránky používají soubory cookie. Tyto soubory nám pomáhají zlepšovat vaši uživatelskou zkušenost."
+              title: "Cookie Usage",
+              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
             },
             {
-              title: "Striktně nezbytné cookies <span class=\"pm__badge\">Vždy povolené</span>",
-              description: "Tyto cookies jsou nezbytné pro správné fungování naší webové stránky a nelze je vypnout. Obvykle jsou nastaveny pouze v reakci na vaše akce, které se rovnají žádosti o služby, jako je nastavení preferencí pro ochranu soukromí, přihlašování nebo vyplňování formulářů."
+              title: "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
+              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              linkedCategory: "necessary"
             },
             {
-              title: "Analytické cookies",
-              description: "Tyto cookies nám umožňují sledovat návštěvnost a zdroje provozu, abychom mohli měřit a zlepšovat výkon naší stránky. Pomáhají nám porozumět tomu, jaké stránky jsou nejvíce a nejméně populární a vidět, jak se návštěvníci pohybují na našich stránkách."
+              title: "Analytics Cookies",
+              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              linkedCategory: "analytics"
             },
             {
-              title: "Reklamní cookies",
-              description: "Tyto cookies mohou být nastaveny našimi reklamními partnery prostřednictvím našich stránek. Mohou být použity těmito společnostmi k vytvoření profilu vašich zájmů a zobrazování relevantních reklam na jiných webových stránkách."
+              title: "Advertisement Cookies",
+              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              linkedCategory: "marketing"
             },
             {
-              title: "Více informací",
-              description: "Pro jakékoli dotazy ohledně mé politiky týkající se cookies a vašich možností mě prosím <a class=\"cc__link\" href=\"https:\\www.dobros.cz\">kontaktujte</a>."
+              title: "More information",
+              description: "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"#yourdomain.com\">contact me</a>."
             }
           ]
-
         }
       }
     },
