@@ -35,16 +35,16 @@ CookieConsent.run({
           footer: "<a href=\"/cookies\">Cookies</a>\n<a href=\"/vop\">Všeobecné podmínky</a>"
         },
         preferencesModal: {
-          title: "Consent Preferences Center",
-          acceptAllBtn: "Accept all",
-          acceptNecessaryBtn: "Reject all",
-          savePreferencesBtn: "Save preferences",
-          closeIconLabel: "Close modal",
-          serviceCounterLabel: "Service|Services",
+          title: "Nastavení souhlasu",
+          acceptAllBtn: "Přijmout všechny",
+          acceptNecessaryBtn: "Odmítnout všechny",
+          savePreferencesBtn: "Uložit preference",
+          closeIconLabel: "Zavřít modální okno",
+          serviceCounterLabel: "Služba|Služby",
           sections: [
             {
-              title: "Cookie Usage",
-              description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+              title: "Použití cookies",
+              description: "Jsme povinni vás informovat, že naše webové stránky používají soubory cookie. Tyto soubory nám pomáhají zlepšovat vaši uživatelskou zkušenost."
             },
             {
               title: "Striktně nezbytné cookies <span class=\"pm__badge\">Vždy povolené</span>",
