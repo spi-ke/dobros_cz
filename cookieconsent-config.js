@@ -27,12 +27,12 @@ CookieConsent.run({
         translations: {
             en: {
                 consentModal: {
-                    title: "Hello traveller, it's cookie time!",
-                    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
-                    acceptAllBtn: "Accept all",
-                    acceptNecessaryBtn: "Reject all",
-                    showPreferencesBtn: "Manage preferences",
-                    footer: "<a href=\"#link\">Privacy Policy</a>\n<a href=\"#link\">Terms and conditions</a>"
+                    title: "Vítejte na našich webových stránkách",
+                    description: "Jsme povinni informovat vás, že naše webové stránky používají soubory cookie. Tyto soubory nám pomáhají zlepšovat vaši uživatelskou zkušenost. Kliknutím na \"Přijmout všechny cookies\" souhlasíte s jejich použitím. Pokud upřednostňujete spravovat své preference ohledně cookies, můžete kliknout na \"Odmítnout všechny cookies\".",
+                    acceptAllBtn: "Přijmout všechny cookies",
+                    acceptNecessaryBtn: "Odmítnout všechny cookies",
+                    showPreferencesBtn: "Nastavení preferencí",
+                    footer: "<a href=\"/cookies\">Cookies</a>\n<a href=\"/vop\">Všeobecné podmínky</a>"
                 },
                 preferencesModal: {
                     title: "Consent Preferences Center",
