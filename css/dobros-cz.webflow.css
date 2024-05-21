@@ -303,13 +303,13 @@
 
 @media (max-width: 1400px) {
     .content {
-        width: 1200px;
+        /*width: 1200px;*/
     }
 }
 
 @media (max-width: 1200px) {
     .content {
-        width: 1000px;
+        /*width: 1000px;*/
     }
 
     .logos-row a.hidden {
