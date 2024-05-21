@@ -121,6 +121,10 @@
     text-decoration: none;
 }
 
+.content-vop {
+    margin: 20px 40px;
+}
+
 .photo {
     display: block;
     margin-right: auto;
