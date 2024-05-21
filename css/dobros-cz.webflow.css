@@ -102,8 +102,8 @@
 
 .content {
     display: block;
-    width: 1600px;
-    min-width: 720px;
+    /*width: 1600px;*/
+    /*min-width: 720px;*/
     margin: 12vh auto 64px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
