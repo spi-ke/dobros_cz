@@ -102,8 +102,8 @@
 
 .content {
     display: block;
-    width: 1600px;
-    min-width: 720px;
+    /*width: 1600px;*/
+    /*min-width: 720px;*/
     margin: 12vh auto 64px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -119,6 +119,10 @@
     -ms-flex-align: center;
     align-items: center;
     text-decoration: none;
+}
+
+.content-vop {
+    margin: 20px 40px;
 }
 
 .photo {
@@ -303,13 +307,13 @@
 
 @media (max-width: 1400px) {
     .content {
-        width: 1200px;
+        /*width: 1200px;*/
     }
 }
 
 @media (max-width: 1200px) {
     .content {
-        width: 1000px;
+        /*width: 1000px;*/
     }
 
     .logos-row a.hidden {
