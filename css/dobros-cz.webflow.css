@@ -362,12 +362,12 @@
     }
 
     .paragraph {
-        /*display: none;*/
+        display: none !important;
         margin-top: 32px;
     }
 
     .paragraph.mobile {
-        display: block;
+        display: block !important;
     }
 
     .text-span {
